@@ -1,0 +1,77 @@
+remove old renderer				- OK
+build smooth TBN like in HLFX 0.6		- OK
+build env_cubemap system			- OK
+handle new lightstyles system			- OK
+do revision for all shaders			- OK
+optimize new renderer			- OK
+new grass system				- OK
+add new punch system			- OK
+control over player speed			- OK
+control over player jump height		- OK
+kill shit message about NULL model		- OK
+remove hardcoded names from hud		- OK
+do revision for light shaders			- OK
+optimize light pass				- OK
+create shaders for dlight LQ specular		- OK
+optimize shadow pass			- OK
+gloss for studio transparent objects		- OK
+move decal POM settings into script		- OK
+do revision for decal shaders			- OK
+make gloss for decals			- OK
+gloss for bmodel transparent objects		- OK
+crop matrix for shadows from sun		- OK
+optimize sky drawing			- OK
+remove hdrl				- OK
+remove bloom				- OK
+implement god-rays				- OK
+fix flashlight disappearing on p_savior2	- OK
+fix rain visibility check			- OK
+fix studio chrome parazite lighting		- OK
+fix tubes lighting artifacts			- OK
+update matdesc documentation			- OK
+flags SF_NOSHADOW and SF_NOBUMP for env_dynlight	- OK
+gloss lighting models for each poly		- OK
+write documentation for entities		- OK
+remove unneeded pglDepthMask			- OK
+remove triapiobjects stuff			- OK
+finalize custom particles			- OK
+check all extensions that needs for correct work	- OK
+unload grass correctly			- OK
+full renderer revision			- OK
+beta-testing for other videocards		- OK
+fixup point shadows on radeons		- OK
+create ubershaders for decals			- OK
+do revision of post-process filtering		- OK
+create ubershaders for all studio models	- OK
+correct screen copy for translucent studio	- OK
+create uber-shaders for studio decals		- OK
+do revision of all sunlight shaders		- OK
+finalize occlusion query			- OK
+fix bug with sun light & studio alpha test blink	- OK
+convert textures to DDS			- OK
+local beta-testing				- OK
+global beta-testing				- OK
+create compilers for VHLT v34			- OK
+final beta-testing and release test version	- OK
+create tool for custom DXT encoding		- OK
+pass the encoding param into renderer		- OK
+optimize world rendering
+update BSP file format (lightprobes, worldlights)	- OK
+plane hashing				- OK
+new lighting for studiomodels			- OK
+new shaders
+new dynamic lighting
+allow maketex to compress cubemaps		- OK
+
+compilers
+blur direct light				- OK
+build filesystem for radiosity		- OK
+make advanced trace for rad			- OK
+diffuse_light for sky			- OK
+fix bug with rad-pathes			- OK
+store deluxemap				- OK
+store worldlights				- OK
+store shadow occlusion			- OK
+store worldlightvismatrix			- OK
+fix bug in CSG (invalid planes)		- OK
+finalize vertex lighting			- OK

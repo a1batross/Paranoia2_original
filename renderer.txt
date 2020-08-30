@@ -1,0 +1,5 @@
+1. implement studio LOD-system			OK
+2. fix studio bump-mapping
+
+1. match light values with lightmap levels
+2. implement shadow maps
